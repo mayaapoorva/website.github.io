@@ -43,27 +43,6 @@
                                     </a>
                                     <div class="nk-menu-dropdown">
                                         <ul class="nk-menu-sub">
-                                            <li class="nk-menu-item">
-                                                <a class="nk-menu-link" href="index.html">Home S1</a>
-                                            </li>
-                                            <li class="nk-menu-item">
-                                                <a class="nk-menu-link" href="index-s2.html">Home S2</a>
-                                            </li>
-                                            <li class="nk-menu-item">
-                                                <a class="nk-menu-link" href="index-s3.html">Home S3</a>
-                                            </li>
-                                            <li class="nk-menu-item">
-                                                <a class="nk-menu-link" href="index-s4.html">Home S4</a>
-                                            </li>
-                                            <li class="nk-menu-item">
-                                                <a class="nk-menu-link" href="index-s5.html">Home S5</a>
-                                            </li>
-                                            <li class="nk-menu-item">
-                                                <a class="nk-menu-link" href="index-s6.html">Home S6 <div class="badge bg-primary ms-2 me-n4 px-2 rounded-pill">New</div></a>
-                                            </li>
-                                            <li class="nk-menu-item">
-                                                <a class="nk-menu-link" href="index-s7.html">Home S7 <div class="badge bg-primary ms-2 me-n4 px-2 rounded-pill">New</div></a>
-                                            </li>
                                         </ul>
                                     </div>
                                 </li>
